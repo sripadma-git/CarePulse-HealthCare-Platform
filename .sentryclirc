@@ -1,0 +1,5 @@
+SENTRY_AUTH_TOKEN=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
+
+[defaults]
+org=sri-padma
+project=javascript-nextjs-03
